@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52" started-at="2019-01-31T09:30:32Z" finished-at="2019-01-31T09:30:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52" started-at="2019-01-31T09:30:32Z" finished-at="2019-01-31T09:30:32Z">
+      <class name="githubpush.cisco">
+        <test-method status="PASS" signature="govind()[pri:0, instance:githubpush.cisco@5dfcfece]" name="govind" duration-ms="14" started-at="2019-01-31T09:30:32Z" finished-at="2019-01-31T09:30:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- govind -->
+      </class> <!-- githubpush.cisco -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
